@@ -1,4 +1,8 @@
 ### Hi there 👋
+![email](https://img.shields.io/badge/email-user.zouyu@foxmail.com-brightgreen?logo=Mail.Ru)
+![wechat](https://img.shields.io/static/v1?label=weixin&message=user_zouyu&color=weixin&logo=wechat)
+
+
 
 <!--
 **user-zouyu/user-zouyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
